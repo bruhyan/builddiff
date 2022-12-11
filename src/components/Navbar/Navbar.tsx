@@ -15,7 +15,7 @@ export const NavigationBar = () => {
                             height="30"
                             className="d-inline-block align-top"
                         />{' '}
-                        Not OP.GG
+                        BuiltDiff
                     </Navbar.Brand>
                 </Container>
             </Navbar>
